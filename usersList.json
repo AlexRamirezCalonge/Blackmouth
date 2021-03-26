@@ -1,0 +1,9 @@
+{
+    "users":[ 
+        { "userId":"Puxina", "name":"Miguel", "coins": 100 },
+        { "userId":"Eduardino182", "name": "Edu", "coins":1 },
+        { "userId":"Arcklong", "name": "Alex", "coins":50 },
+        { "userId":"CR7", "name":"Cristiano", "coins": 1000000000 },
+        { "userId":"KH3Hero", "name": "Sora", "coins":34256 }
+     ]
+}
