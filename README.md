@@ -1,4 +1,4 @@
-# Http Request Service
+# API REST
 The main goal of the code is create an API REST in order to develop our own client services and use some external services using the Steamworks API. 
 The service is open in the port 3000. The main route 'localhost:3000' show a "Hello World!!!" message. We can difference two different services:
 
